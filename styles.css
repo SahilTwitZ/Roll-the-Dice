@@ -1,0 +1,83 @@
+.navbar{
+  background-color: #232931;
+}
+
+.logo span {
+  font-family: 'Indie Flower', cursive;
+  font-size: 2.5rem; 
+  letter-spacing: 2px;
+  color: #4ECCA3;
+  text-transform: uppercase;
+  text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+}
+
+.logo svg {
+  fill: #4ECCA3;
+  margin-right: 10px;
+}
+
+.logo:hover span {
+  color: #ffffff; 
+  text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.7);
+}
+
+.nav-link:hover {
+  color: #666d6a;
+  text-decoration: none;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h2 {
+  margin: 30px;
+  font-family: 'Indie Flower';
+  text-shadow: 5px 0 #232931;
+  font-size: 4.5rem;
+  color: #70cc4e;
+}
+
+p {
+  font-size: 2rem;
+  color: #34df50;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 60%;
+}
+
+.btn-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.btn{
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Indie Flower', cursive;
+  color: #34df50;
+}
+.footer {
+  font-size: 1.5rem;
+  margin-top: 5%;
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
